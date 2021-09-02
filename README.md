@@ -6,15 +6,16 @@ Use Flutter💪 to implement the UI challenge By Mr Abdullah Mansour
 ![alt text](https://scontent.ftun15-1.fna.fbcdn.net/v/t1.6435-9/p180x540/240904133_4693489324004211_4101127813612102277_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=825194&_nc_ohc=08GchzA9Us8AX-6qqRx&_nc_ht=scontent.ftun15-1.fna&oh=6027cc1905e56ce89ece0772d7be5092&oe=61565158)
 
 ## Video rendering : 
-
+<center>
 https://user-images.githubusercontent.com/81202947/131762536-6fa87f49-d7fd-4e56-8806-dddf6d84e91e.mp4
-
-
+</center>
 
 ## Images rending : 
-<img align="center" height="300" src="https://user-images.githubusercontent.com/81202947/131762658-1e7f7cbf-3725-4ce8-bbd4-2d9fd9574aa5.jpg">
-![alt text](https://user-images.githubusercontent.com/81202947/131762658-1e7f7cbf-3725-4ce8-bbd4-2d9fd9574aa5.jpg)
-![Screenshot_2021-09-02-01-11-30-798_com habchibessem flutter_challenge](https://user-images.githubusercontent.com/81202947/131762668-78ab1066-fdf2-4908-b318-b799a11036c5.jpg)
+
+<img align="center" height="500" src="https://user-images.githubusercontent.com/81202947/131762658-1e7f7cbf-3725-4ce8-bbd4-2d9fd9574aa5.jpg">
+
+<img align="center" height="500" src="https://user-images.githubusercontent.com/81202947/131762668-78ab1066-fdf2-4908-b318-b799a11036c5.jpg">
+
 
 
 
