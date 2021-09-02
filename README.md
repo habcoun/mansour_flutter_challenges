@@ -8,7 +8,7 @@ Use Flutter💪 to implement the UI challenge By Mr Abdullah Mansour
 ## Video rendering : 
 
 
-https://user-images.githubusercontent.com/81202947/131762536-6fa87f49-d7fd-4e56-8806-dddf6d84e91e.mp4
+![alt text]https://user-images.githubusercontent.com/81202947/131762536-6fa87f49-d7fd-4e56-8806-dddf6d84e91e.mp4
 
 ## Images rending : 
 ![Screenshot_2021-09-02-01-10-37-724_com habchibessem flutter_challenge](https://user-images.githubusercontent.com/81202947/131762658-1e7f7cbf-3725-4ce8-bbd4-2d9fd9574aa5.jpg)
