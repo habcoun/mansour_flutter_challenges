@@ -7,7 +7,6 @@ Use Flutter💪 to implement the UI challenge By Mr Abdullah Mansour
 
 ## Video rendering : 
 
-![alt text](https://user-images.githubusercontent.com/81202947/131762536-6fa87f49-d7fd-4e56-8806-dddf6d84e91e.mp4)
 https://user-images.githubusercontent.com/81202947/131762536-6fa87f49-d7fd-4e56-8806-dddf6d84e91e.mp4
 
 
